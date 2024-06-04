@@ -25,7 +25,8 @@ This E-Commerce Web Application, developed using the .NET framework and VB (Visu
 
 ## Screenshots
 Home Screen
-![App Screenshot](https://drive.google.com/file/d/1_0zwiKj3Lm7XH9mycFZL6RGA-Wgp8c_p/view?usp=sharing)
+![Screenshot (131)](https://github.com/ShantanuKyada/Ecommerce-web-Application/assets/99077076/703a0647-9e17-4179-96a0-fcaa63d110bf)
 
 Registration Page
-![App Screenshot](https://drive.google.com/file/d/1_0zwiKj3Lm7XH9mycFZL6RGA-Wgp8c_p/view?usp=sharing)
+![Screenshot (132)](https://github.com/ShantanuKyada/Ecommerce-web-Application/assets/99077076/46cb1faf-e2c6-4d26-805c-f42388b8f22d)
+
